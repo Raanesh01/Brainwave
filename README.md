@@ -32,12 +32,19 @@ Hey, welcome to **Brainwave**—my wild ride into frontend glory! Crafted with *
   `http://localhost:5173`
 
 ## Tech Stack
-✔️ **HTML**: The backbone holding it all together.  
-✔️ **CSS**: Pure style, with Tailwind doing the heavy lifting.  
-✔️ **JavaScript**: The brains behind the action.  
-✔️ **React**: Components that snap into place.  
-✔️ **GSAP**: Animations that hit different.  
-✔️ **Tailwind CSS**: Fast, flexible, and futuristic.
+- [![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26)](https://html.spec.whatwg.org/)  
+- [![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6)](https://www.w3.org/Style/CSS/)  
+- [![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E)](https://javascript.com)  
+- [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB)](https://reactjs.org)  
+- [![GSAP](https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02)](https://gsap.com)  
+- [![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4)](https://tailwindcss.com)
+
+## What’s Next
+- More GSAP flair to blow minds.  
+- Live deploy for global oohs and aahs.  
+- Your feedback—let’s build something epic.
+
+## My Why
 
 ## Why I Built It
 I wanted to learn frontend by smashing keys, not just watching.  
